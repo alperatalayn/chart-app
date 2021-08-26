@@ -1,5 +1,5 @@
 # chart-app
-## Dynamic linechart with two sets of data represented by lines 
+## Basic dynamic linechart app developed with Vue with two sets of dummy data represented with respect to time period.
 
 ### Live demo on heroku
 https://linechart-demo.herokuapp.com/
